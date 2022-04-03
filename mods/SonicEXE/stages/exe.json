@@ -1,0 +1,165 @@
+{
+	"defaultCamZoom": 1,
+	"sprites": [
+		{
+			"pos": [
+				-359.999999999999,
+				-166.666666666667
+			],
+			"src": "ISLAND SKY",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "ISLAND SKY",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1.1
+		},
+		{
+			"pos": [
+				-233.333333333333,
+				-66.6666666666664
+			],
+			"src": "FLOOR2",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "FLOOR2",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-370,
+				-153.333333333333
+			],
+			"src": "FLOOR1",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "FLOOR1",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1.1
+		},
+		{
+			"pos": [
+				400,
+				121
+			],
+			"src": "",
+			"scrollFactor": [
+				0.95,
+				0.95
+			],
+			"antialiasing": true,
+			"name": "Girlfriend",
+			"animation": null,
+			"type": "GF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				770,
+				450
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Boyfriend",
+			"animation": null,
+			"type": "BF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-62,
+				-204
+			],
+			"src": "EGGMAN",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "EGGMAN",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-196,
+				-268
+			],
+			"src": "tail",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "tail",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				74,
+				-9.99999999999997
+			],
+			"src": "TailsSpikeAnimated",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "TailsSpikeAnimated",
+			"animation": {
+				"type": "Loop",
+				"name": "Tails Spike Animated instance",
+				"fps": 24
+			},
+			"type": "SparrowAtlas",
+			"scale": 1
+		},
+		{
+			"pos": [
+				240,
+				234.666666666667
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Dad",
+			"animation": null,
+			"type": "Dad",
+			"scale": 1
+		}
+	],
+	"dadOffset": [
+		140,
+		134.666666666667
+	],
+	"gfOffset": [
+		0,
+		0
+	],
+	"bfOffset": [
+		0,
+		0
+	]
+}

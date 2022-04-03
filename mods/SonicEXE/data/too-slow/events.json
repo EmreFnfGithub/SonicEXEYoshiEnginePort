@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "Angel Island",
+		"player1": "bf",
+		"player2": "Sonic.exe",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				28333.3333333333,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				84630.5555555556,
+				[
+					[
+						"Screen Shake",
+						"2, 0.01",
+						"2, 0.01"
+					]
+				]
+			],
+			[
+				84638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				84888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85388.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				86138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				129722.222222222,
+				[
+					[
+						"Play Animation",
+						"I AM GOD",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				129732.638888889,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140222.222222222,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				148222.222222222,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic.exeMad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "too-slow"
+	}
+}

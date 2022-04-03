@@ -1,0 +1,279 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "Forest",
+		"player1": "bf",
+		"player2": "P2Sonic.exe",
+		"player3": null,
+		"events": [
+			[
+				13692.8571428571,
+				[
+					[
+						"Screen Shake",
+						"2, 0.01",
+						"2, 0.01"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				13928.5714285714,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				14142.8571428571,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				14357.1428571429,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				14571.4285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				14785.7142857143,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				35142.8571428571,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				35357.1428571429,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				35571.4285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				35785.7142857143,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				55821.4285714286,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				56587.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic.exePixel"
+					]
+				]
+			],
+			[
+				56603.5714285715,
+				[
+					[
+						"Change Character",
+						"0",
+						"pixel bf"
+					]
+				]
+			],
+			[
+				56627.6785714286,
+				[
+					[
+						"Change Character",
+						"2",
+						"pixel gf"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Screen Shake",
+						"6, 0.05",
+						"6, 0.05"
+					]
+				]
+			],
+			[
+				84058.9285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				84066.9642857143,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			],
+			[
+				84072.3214285714,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				94285.7142857143,
+				[
+					[
+						"Screen Shake",
+						"3, 0.05",
+						"3, 0.05"
+					]
+				]
+			],
+			[
+				124285.714285714,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				138214.285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				138428.571428571,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			],
+			[
+				138642.857142857,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"P2Sonic.exe"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "you-cant-run"
+	}
+}

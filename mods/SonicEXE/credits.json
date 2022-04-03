@@ -1,0 +1,15 @@
+{
+    "credits" : [
+        {
+            "name" : "EmreFnF",
+            "role" : "Sonic Exe Yoshi Engine Port",
+            "icon" : "images/credits/emrefnf.png",
+            "urls" : [
+                {
+                    "name" : "Gamebanana",
+                    "url" : "https://gamebanana.com/members/2064554"
+                }
+            ]
+        }
+    ]
+}

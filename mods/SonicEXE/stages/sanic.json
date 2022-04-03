@@ -1,0 +1,81 @@
+{
+	"defaultCamZoom": 1,
+	"sprites": [
+		{
+			"pos": [
+				400,
+				121
+			],
+			"src": "",
+			"scrollFactor": [
+				0.95,
+				0.95
+			],
+			"antialiasing": true,
+			"name": "Girlfriend",
+			"animation": null,
+			"type": "GF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-808.333333333333,
+				-568.333333333333
+			],
+			"src": "stages/sanic/sanicbg",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "sanicbg",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1.5
+		},
+		{
+			"pos": [
+				5,
+				-200
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Dad",
+			"animation": null,
+			"type": "Dad",
+			"scale": 1
+		},
+		{
+			"pos": [
+				1270,
+				145
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Boyfriend",
+			"animation": null,
+			"type": "BF",
+			"scale": 1
+		}
+	],
+	"dadOffset": [
+		-95,
+		-300
+	],
+	"gfOffset": [
+		0,
+		0
+	],
+	"bfOffset": [
+		500,
+		-305
+	]
+}

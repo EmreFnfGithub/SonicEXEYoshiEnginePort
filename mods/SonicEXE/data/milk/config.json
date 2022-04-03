@@ -1,0 +1,8 @@
+{
+	"icon": "sunky", "": "Main character head icon for Singleplayer/Local Multiplayer",
+	"icon_2": "pico", "": "This loads another head icon instead if for some reason the first icon couldn't be found, useful if the first icon is from a custom character",
+	"stage": "fresh", "": "Tricks the game into thinking you're playing on the said stage, adding camera zooms and shit like that",
+	"name": "Milk", "": "Name to be shown on Singleplayer/Local Multiplayer and Discord's Rich Presence",
+	"color": -11743640, "": "Decimal value of a color's hex, format is ARGB, convert it to decimal with the calculator (Add an 'FF' at the start though)",
+	"read_only": false, "": "Hides the song from the song select list, useful on Online mode if you want it to be loaded when you're connected to a server but will never play it while hosting"
+}

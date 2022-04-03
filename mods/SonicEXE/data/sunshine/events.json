@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "3D Stage",
+		"player1": "3D bf",
+		"player2": "TailsDoll",
+		"player3": null,
+		"events": [
+			[
+				83750,
+				[
+					[
+						"Change Character",
+						"1",
+						"Dark Doll"
+					]
+				]
+			],
+			[
+				83821.4285714286,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				122685.714285714,
+				[
+					[
+						"Change Character",
+						"1",
+						"TailsDoll"
+					]
+				]
+			],
+			[
+				122714.285714286,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sunshine"
+	}
+}

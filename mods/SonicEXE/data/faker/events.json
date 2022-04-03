@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "Faker Stage",
+		"player1": "bf",
+		"player2": "faker",
+		"player3": null,
+		"events": [
+			[
+				114285.714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fakertransformation"
+					]
+				]
+			],
+			[
+				114291.666666667,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				118857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				121142.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "EXE GF",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "faker"
+	}
+}

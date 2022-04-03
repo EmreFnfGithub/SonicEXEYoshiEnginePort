@@ -1,0 +1,81 @@
+{
+	"defaultCamZoom": 1,
+	"sprites": [
+		{
+			"pos": [
+				400,
+				121
+			],
+			"src": "",
+			"scrollFactor": [
+				0.95,
+				0.95
+			],
+			"antialiasing": true,
+			"name": "Girlfriend",
+			"animation": null,
+			"type": "GF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-330,
+				-160
+			],
+			"src": "stages/milkstage/SunkBG",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "SunkBG",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 0.8
+		},
+		{
+			"pos": [
+				-137.5,
+				97.5
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Dad",
+			"animation": null,
+			"type": "Dad",
+			"scale": 1
+		},
+		{
+			"pos": [
+				770,
+				450
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Boyfriend",
+			"animation": null,
+			"type": "BF",
+			"scale": 1
+		}
+	],
+	"dadOffset": [
+		-237.5,
+		-2.5
+	],
+	"gfOffset": [
+		0,
+		0
+	],
+	"bfOffset": [
+		0,
+		0
+	]
+}

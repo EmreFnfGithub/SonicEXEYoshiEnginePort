@@ -1,0 +1,153 @@
+{
+	"defaultCamZoom": 1,
+	"sprites": [
+		{
+			"pos": [
+				400,
+				121
+			],
+			"src": "",
+			"scrollFactor": [
+				0.95,
+				1
+			],
+			"antialiasing": true,
+			"name": "Girlfriend",
+			"animation": null,
+			"type": "GF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-500,
+				-192
+			],
+			"src": "nofleetway",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "nofleetway",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1.9
+		},
+		{
+			"pos": [
+				-780,
+				710
+			],
+			"src": "Fleetway floor",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Fleetway floor",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-841.666666666667,
+				-62.5000000000001
+			],
+			"src": "FleetwayBGshit",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "FleetwayBGshit",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 0.4
+		},
+		{
+			"pos": [
+				-117.5,
+				-357.5
+			],
+			"src": "Emerald Beam Charged",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Emerald Beam Charged",
+			"animation": {
+				"type": "Loop",
+				"name": "Emerald Beam Charged instance",
+				"fps": 24
+			},
+			"type": "SparrowAtlas",
+			"scale": 0.7
+		},
+		{
+			"pos": [
+				215.555555555556,
+				92.2222222222223
+			],
+			"src": "Emeralds",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Emeralds",
+			"animation": {
+				"type": "Loop",
+				"name": "TheEmeralds instance",
+				"fps": 24
+			},
+			"type": "SparrowAtlas",
+			"scale": 1
+		},
+		{
+			"pos": [
+				9.9475983006414e-14,
+				-150
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Dad",
+			"animation": null,
+			"type": "Dad",
+			"scale": 1
+		},
+		{
+			"pos": [
+				872.5,
+				433
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Boyfriend",
+			"animation": null,
+			"type": "BF",
+			"scale": 1
+		}
+	],
+	"dadOffset": [
+		-99.9999999999999,
+		-250
+	],
+	"gfOffset": [
+		0,
+		0
+	],
+	"bfOffset": [
+		102.5,
+		-17
+	]
+}

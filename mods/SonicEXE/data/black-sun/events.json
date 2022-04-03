@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "EXE Stage",
+		"player1": "bf",
+		"player2": "EXE",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"healthlmao",
+						"-0.99",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "EXE GF",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "black-sun"
+	}
+}

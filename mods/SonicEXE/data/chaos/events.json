@@ -1,0 +1,499 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Chamber",
+		"player1": "bf",
+		"player2": "Fleetway",
+		"player3": null,
+		"events": [
+			[
+				1507.93650793651,
+				[
+					[
+						"Play Animation",
+						"Let's see",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				20952.380952381,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway attacking"
+					]
+				]
+			],
+			[
+				20964.2857142857,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Fleetway attacking"
+					]
+				]
+			],
+			[
+				21507.9365079365,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				21575.3968253968,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				30476.1904761905,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				30484.126984127,
+				[
+					[
+						"Play Animation",
+						"Step it up",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				31666.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				40621.0317460317,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				40634.9206349206,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				41825.3968253968,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				50787.6984126984,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				50793.6507936508,
+				[
+					[
+						"Play Animation",
+						"Too Slow",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				52059.5238095238,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				61577.380952381,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				61587.3015873016,
+				[
+					[
+						"Play Animation",
+						"Finished",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				62218.253968254,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				79126.9841269842,
+				[
+					[
+						"Change Character",
+						"BF",
+						"SuperBF2"
+					]
+				]
+			],
+			[
+				79285.7142857144,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"BF"
+					]
+				]
+			],
+			[
+				80000.0000000001,
+				[
+					[
+						"Play Sound",
+						"SUPERBF",
+						"1"
+					]
+				]
+			],
+			[
+				80009.9206349207,
+				[
+					[
+						"Change Character",
+						"BF",
+						"SuperBF"
+					]
+				]
+			],
+			[
+				82196.4285714287,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				82222.2222222223,
+				[
+					[
+						"Play Animation",
+						"WHAT?!",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				82529.761904762,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				91424.6031746033,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				91428.5714285715,
+				[
+					[
+						"Play Animation",
+						"Grrr",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				92619.0476190477,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				100061.507936508,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				100079.365079365,
+				[
+					[
+						"Play Animation",
+						"Show you",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				102853.174603175,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				122454.365079365,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				122460.317460318,
+				[
+					[
+						"Play Animation",
+						"Scream",
+						"Fleetway talking 1"
+					]
+				]
+			],
+			[
+				123172.619047619,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				132684.523809524,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				132698.412698413,
+				[
+					[
+						"Play Animation",
+						"Growl",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				133329.365079365,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				142218.253968254,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				142222.222222222,
+				[
+					[
+						"Play Animation",
+						"Shut Up",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				143174.603174603,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway"
+					]
+				]
+			],
+			[
+				153644.841269841,
+				[
+					[
+						"Change Character",
+						"1",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				153650.793650794,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				153809.523809524,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153968.253968254,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				154126.984126984,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				154285.714285714,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				154444.444444445,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				154603.174603175,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			],
+			[
+				154761.904761905,
+				[
+					[
+						"Play Animation",
+						"FUUU-",
+						"Fleetway talking 2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 189,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "chaos"
+	}
+}

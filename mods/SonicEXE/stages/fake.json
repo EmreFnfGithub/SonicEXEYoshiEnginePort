@@ -1,0 +1,165 @@
+{
+	"defaultCamZoom": 1,
+	"sprites": [
+		{
+			"pos": [
+				400,
+				121
+			],
+			"src": "",
+			"scrollFactor": [
+				0.95,
+				0.95
+			],
+			"antialiasing": true,
+			"name": "Girlfriend",
+			"animation": null,
+			"type": "GF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-547.5,
+				-207.5
+			],
+			"src": "fakerrr/sky",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "sky",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1.2
+		},
+		{
+			"pos": [
+				-550,
+				-306.666666666667
+			],
+			"src": "fakerrr/mountains",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "mountains",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-690,
+				-486.666666666666
+			],
+			"src": "fakerrr/plants",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "plants",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-881.999999999999,
+				-439.999999999999
+			],
+			"src": "fakerrr/trees",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "trees",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-757.5,
+				-345
+			],
+			"src": "fakerrr/pillars",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "pillars",
+			"animation": null,
+			"type": "Bitmap",
+			"scale": 1
+		},
+		{
+			"pos": [
+				770,
+				450
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Boyfriend",
+			"animation": null,
+			"type": "BF",
+			"scale": 1
+		},
+		{
+			"pos": [
+				-422.666666666667,
+				-87.3333333333332
+			],
+			"src": "",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "Dad",
+			"animation": null,
+			"type": "Dad",
+			"scale": 1
+		},
+		{
+			"pos": [
+				430,
+				163.333333333333
+			],
+			"src": "exe_GF_assets",
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"name": "exe_GF_assets",
+			"animation": {
+				"type": "Loop",
+				"fps": 24,
+				"name": "gf dance"
+			},
+			"type": "SparrowAtlas",
+			"scale": 1
+		}
+	],
+	"dadOffset": [
+		-522.666666666667,
+		-187.333333333333
+	],
+	"gfOffset": [
+		0,
+		0
+	],
+	"bfOffset": [
+		0,
+		0
+	]
+}

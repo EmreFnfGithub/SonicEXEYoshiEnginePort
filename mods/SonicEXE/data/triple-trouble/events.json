@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "ForestTriple",
+		"player1": "bf",
+		"player2": "Tails",
+		"player3": null,
+		"events": [
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"Xenophane"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"1",
+						"Knuckles"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"Xenophane"
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"Robotnik"
+					]
+				]
+			],
+			[
+				296019.145073445,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				296199.867965011,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				296380.590856577,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				296561.313748144,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				307585.410133686,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				307766.133025252,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				307946.855916818,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				308127.578808384,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				400115.530615613,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				400296.253507179,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				400476.976398745,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				400657.699290311,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"Xenophane"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "triple-trouble"
+	}
+}

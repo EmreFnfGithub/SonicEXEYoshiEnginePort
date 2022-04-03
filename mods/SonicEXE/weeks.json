@@ -1,0 +1,73 @@
+{
+	"weeks": [
+		{
+			"difficulties": [
+				{
+					"name": "Easy",
+					"sprite": "Friday Night Funkin':storymenu/easy"
+				},
+				{
+					"name": "Normal",
+					"sprite": "Friday Night Funkin':storymenu/normal"
+				},
+				{
+					"name": "Hard",
+					"sprite": "Friday Night Funkin':storymenu/hard"
+				}
+			],
+			"songs": [
+				"too-slow",
+				"you-cant-run",
+				"triple-trouble"
+			],
+			"mod": "sonicexe",
+			"buttonSprite": "images/weekimages/weekexe.png",
+			"color": "#AE1704",
+			"name": "sonic exe",
+			"dad": {
+				"animation": "",
+				"file": "/characters/exe/spritesheet",
+				"scale": 0.6,
+				"flipX": false,
+				"offset": [
+					160,
+					110
+				]
+			}
+		},
+		{
+			"difficulties": [
+				{
+					"sprite": "Friday Night Funkin':storymenu/easy",
+					"name": "Easy"
+				},
+				{
+					"sprite": "Friday Night Funkin':storymenu/normal",
+					"name": "Normal"
+				},
+				{
+					"sprite": "Friday Night Funkin':storymenu/hard",
+					"name": "Hard"
+				}
+			],
+			"songs": [
+				"faker",
+				"black-sun"
+			],
+			"mod": "sonicexe",
+			"dad": {
+				"file": "/characters/fakertransformation/spritesheet",
+				"animation": "TransformationLEFT instance",
+				"scale": 0.4,
+				"offset": [
+					460,
+					260
+				],
+				"flipX": false
+			},
+			"name": "faker",
+			"color": "#3871E5",
+			"buttonSprite": "images/weekimages/weekfaker.png"
+		}
+	]
+}

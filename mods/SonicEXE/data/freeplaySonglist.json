@@ -1,0 +1,136 @@
+{
+	"songs": [
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "exe",
+			"name": "too-slow",
+			"color": "#BC0101"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "exe-ycr",
+			"name": "you-cant-run",
+			"color": "#0017ff"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "tails-exe",
+			"name": "triple-trouble",
+			"color": "#ff6000"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "endless",
+			"name": "endless",
+			"color": "#a9b0ff"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "lordx",
+			"name": "cycles",
+			"color": "#00ffaa"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "superexe",
+			"name": "chaos",
+			"color": "#ffe500"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "sanic",
+			"name": "too-fest",
+			"color": "#00ff47"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "sunky",
+			"name": "milk",
+			"color": "#0087ff"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "faker",
+			"name": "faker",
+			"color": "#002241"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "fakertransformation",
+			"name": "black-sun",
+			"color": "#a80085"
+		},
+{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "tailsdoll",
+			"name": "sunshine",
+			"color": "#af9b00"
+		}
+	]
+}

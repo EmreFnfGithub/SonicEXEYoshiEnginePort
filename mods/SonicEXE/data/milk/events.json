@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Sunky stage",
+		"player1": "bf",
+		"player2": "sunky",
+		"player3": null,
+		"events": [
+			[
+				43306.4516129032,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sponge"
+					]
+				]
+			],
+			[
+				43870.9677419355,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sunky"
+					]
+				]
+			],
+			[
+				183225.806451613,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sponge"
+					]
+				]
+			],
+			[
+				184193.548387097,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sunky"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "milk"
+	}
+}
