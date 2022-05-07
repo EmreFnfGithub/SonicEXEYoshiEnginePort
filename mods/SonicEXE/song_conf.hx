@@ -4,7 +4,9 @@ switch(song){
             cutscene = "YoshiEngine:MP4-Cutscene";
     case "you-cant-run":
             scripts = ["stages/ycr"];
-            cutscene = "YoshiEngine:MP4-Cutscene";            
+            cutscene = "YoshiEngine:MP4-Cutscene";
+    case "triple-trouble":
+            scripts = ["stages/triple-trouble"];
     case "endless":
             scripts = ["stages/endless"];
     case "cycles":

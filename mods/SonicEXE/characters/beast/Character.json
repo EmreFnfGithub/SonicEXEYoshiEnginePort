@@ -5,8 +5,8 @@
 		"y": 0
 	},
 	"globalOffset": {
-		"x": 0,
-		"y": 0
+		"x": -150,
+		"y": -200
 	},
 	"healthbarColor": "#401D54",
 	"flipX": false,
@@ -24,9 +24,9 @@
 			"indices": null,
 			"x": 0,
 			"y": 0,
-			"anim": "Beast_DOWN00",
+			"anim": "Beast_LAUGH00",
 			"loop": false,
-			"name": "singDOWN",
+			"name": "laugh",
 			"framerate": 24
 		},
 		{
@@ -42,18 +42,9 @@
 			"indices": null,
 			"x": 0,
 			"y": 0,
-			"anim": "Beast_LAUGH00",
+			"anim": "Beast_DOWN00",
 			"loop": false,
-			"name": "laugh",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 0,
-			"y": 0,
-			"anim": "Beast_UP00",
-			"loop": false,
-			"name": "singUP",
+			"name": "singDOWN",
 			"framerate": 24
 		},
 		{
@@ -63,6 +54,15 @@
 			"anim": "Beast_LEFT00",
 			"loop": false,
 			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Beast_UP00",
+			"loop": false,
+			"name": "singUP",
 			"framerate": 24
 		}
 	],
@@ -80,5 +80,5 @@
 			1
 		]
 	],
-	"scale": 1
+	"scale": 0.8
 }

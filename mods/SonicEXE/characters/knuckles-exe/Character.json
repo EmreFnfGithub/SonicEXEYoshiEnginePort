@@ -5,8 +5,8 @@
 		"y": 0
 	},
 	"globalOffset": {
-		"x": 0,
-		"y": 0
+		"x": -20,
+		"y": 60
 	},
 	"healthbarColor": "#4D2521",
 	"flipX": false,
@@ -24,15 +24,6 @@
 			"indices": null,
 			"x": 0,
 			"y": 0,
-			"anim": "Knux Right00",
-			"loop": false,
-			"name": "singRIGHT",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 0,
-			"y": 0,
 			"anim": "Knux Down00",
 			"loop": false,
 			"name": "singDOWN",
@@ -42,9 +33,9 @@
 			"indices": null,
 			"x": 0,
 			"y": 0,
-			"anim": "Knux Up00",
+			"anim": "Knux Right00",
 			"loop": false,
-			"name": "singUP",
+			"name": "singRIGHT",
 			"framerate": 24
 		},
 		{
@@ -54,6 +45,15 @@
 			"anim": "Knux Left00",
 			"loop": false,
 			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Knux Up00",
+			"loop": false,
+			"name": "singUP",
 			"framerate": 24
 		}
 	],
